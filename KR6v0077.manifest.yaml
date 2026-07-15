@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0077/v1
 canonical_location: https://kanripo.org/bkk/KR6v0077/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 地藏菩薩十齋日
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0077_001.yaml, hash: 'sha256:42bbfa5723b7cb8f1f1bfdc1c35e324f8f8783fda3496cb13140ea6d3564b9a3'}
+  - {seq: 1, filename: KR6v0077_001.yaml, hash: 'sha256:422830067c0558be420007e4cab45856874f727849ed85c3d38663e7b3c4682c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0077_001.markers.yaml, hash: 'sha256:1f3eb575b78e5396b65308520b4734a0b3fe2fade331f0831ed1909a14bb22e5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0077_001.markers.yaml, hash: 'sha256:b94d8ee407c3e3b84b88adc231a8ae0e41d6a2a4117985ce4093ef94107731fd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -50,6 +50,9 @@ table_of_contents:
   label: 錄文一
   type: mulu
   level: 1
-hash: sha256:655470c58cfa8391e5127e109462e5d9f5f2ee15423cbb40cee4399475326f45
+hash: sha256:483c931110a028de0520ceb3720833dbf883f6b50b23bb6d8db297f7cb9f9e44
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
